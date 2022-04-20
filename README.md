@@ -1,7 +1,7 @@
 # Eazymart
 
 First of all clone this project into your system.
-And using VScode or others you can run using #npm start .
+And using VScode or others you can run using npm start .
 And  you can see database connected.
 Then open chrome and search localhost3000
 If you have to put products to cart ,login first.
